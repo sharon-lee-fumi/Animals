@@ -1,0 +1,2 @@
+# Animals
+Data-driven app that picks data from a local SQLite database. The main activity of the app has two tabs: "Cats" and "Dogs". Each tab page should contain a list of the animals. The animal lists are filled with data coming from the local database tables. When the user clicks on a list item, the application should open another Activity containing the animal picture and additional information about the animal selected from the database table.
